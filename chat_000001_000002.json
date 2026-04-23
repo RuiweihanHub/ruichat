@@ -11,6 +11,18 @@
       "wish": "来！领100R币！",
       "claimed": false,
       "claimedBy": null
+    },
+    {
+      "user": "Ruiweihan",
+      "uid": "000001",
+      "text": "",
+      "time": "2026-04-23T07:57:46.206Z",
+      "avatar": "https://raw.githubusercontent.com/RuiweihanHub/ruiuser/main/avatars/000001_1776594694854.jpg",
+      "type": "redpacket",
+      "amount": 9999,
+      "wish": "报酬",
+      "claimed": false,
+      "claimedBy": null
     }
   ]
 }
