@@ -80,6 +80,16 @@
       "type": "transfer",
       "amount": 50000,
       "note": "贷款，还我60000"
+    },
+    {
+      "user": "Ruiweihan",
+      "uid": "000001",
+      "text": "",
+      "time": "2026-04-29T09:29:35.948Z",
+      "avatar": "https://raw.githubusercontent.com/RuiweihanHub/ruiuser/main/avatars/000001_1776594694854.jpg",
+      "type": "transfer",
+      "amount": 10000,
+      "note": "转账"
     }
   ]
 }
