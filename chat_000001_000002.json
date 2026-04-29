@@ -70,6 +70,16 @@
       "type": "nudge",
       "nudgeFrom": "Ruiweihan",
       "nudgeTo": "Xvjiarui"
+    },
+    {
+      "user": "Ruiweihan",
+      "uid": "000001",
+      "text": "",
+      "time": "2026-04-29T08:59:44.891Z",
+      "avatar": "https://raw.githubusercontent.com/RuiweihanHub/ruiuser/main/avatars/000001_1776594694854.jpg",
+      "type": "transfer",
+      "amount": 50000,
+      "note": "贷款，还我60000"
     }
   ]
 }
