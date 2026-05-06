@@ -1,3 +1,12 @@
 {
-  "messages": []
+  "messages": [
+    {
+      "user": "Ruiweihan",
+      "uid": "000001",
+      "text": "许 你上线了吗？",
+      "time": "2026-05-06T00:41:33.542Z",
+      "avatar": "https://raw.githubusercontent.com/RuiweihanHub/ruiuser/main/avatars/000001_1776594694854.jpg",
+      "type": "text"
+    }
+  ]
 }
